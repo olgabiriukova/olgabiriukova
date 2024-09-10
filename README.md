@@ -6,7 +6,7 @@
 </a>
 </div>
 
-###About me
+##About me
 -	🎓 I am currently studying at the Czech Technical University in Prague
   (specialization Software Engineering - Enterprise systems)
 -	📝 I am interested in software development and a little bit of data science
