@@ -10,7 +10,7 @@
 ## About me
 -	🎓 I am currently studying at the Czech Technical University in Prague
   (specialization Software Engineering - Enterprise systems)
--	📝 I am interested in software development and a little bit of data science
+
 -	🌐 I speak English, Czech and Russian
 
 ### Languages and tools
