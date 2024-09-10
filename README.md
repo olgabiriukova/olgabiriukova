@@ -9,6 +9,7 @@
 
 ## About me
 -	🎓 I am currently studying at the Czech Technical University in Prague
+  
   (specialization Software Engineering - Enterprise systems)
 
 -	🌐 I speak English, Czech and Russian
